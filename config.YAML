@@ -1,0 +1,34 @@
+general:
+    token : ""
+    MainNitroSniper : true
+    giveawaySniper : true
+    embedColour : "0xFF0000"
+    prefix : ">"
+    afkmodemsg : ""
+    autojoin : true
+    
+    
+payment:
+    btcAddress : "btcAddy"
+    PaypalEmail : "paypalEMAIL"
+    PayPal.me : "paypal.me"
+    etherAddress: "etherAddy"
+
+multisniper:
+    sniper1 : false
+    sniper2 : false
+    sniper3 : false
+    sniper4 : false
+    sniper5 : false
+    snipertoken1 : ""
+    snipertoken2 : ""
+    snipertoken3 : ""
+    snipertoken4 : ""
+    snipertoken5 : ""
+    
+advanced:
+    giveawayDelay : "5"
+    webhook : ""
+    webhookImage : ""
+    dmWebhook : ""
+    
